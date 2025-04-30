@@ -1,6 +1,6 @@
-## Dictionary Operations in Python: Merging Two Dictionaries
-# NAME: GOKUL SHARAN R
-# REG NO: 212223040052
+# Dictionary Operations in Python: Merging Two Dictionaries
+## NAME: GOKUL SHARAN R
+## REG NO: 212223040052
 
 ## 🎯 Aim
 To write a Python program that merges **two dictionaries** and combines their key-value pairs.
